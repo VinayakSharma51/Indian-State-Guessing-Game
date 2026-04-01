@@ -1,4 +1,4 @@
-# 🇮🇳 Indian State Guessing Game
+# Indian State Guessing Game
 
 An interactive Python game where users guess the names of Indian states and see them displayed on a map.
 
